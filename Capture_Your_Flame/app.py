@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = os.getenv('SECRET_KEY', 'super-secret-key-change-this-in-production')
+app.secret_key = os.getenv('SECRET_KEY', 'super-secret-key')
 
 #gets data from environment variables
 VICTIM_DATA = {

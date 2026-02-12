@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  web:
+    build: .
+    container_name: lovers-app
+    ports:
+      - "3654:3654"
+    env_file:
+      - .env           # your environment variables
+    restart: unless-stopped
