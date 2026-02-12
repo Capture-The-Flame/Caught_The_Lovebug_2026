@@ -29,6 +29,15 @@ Check it out here: https://lovebug-ctf.vercel.app/
 
 **Note**: Website will be held up for **one week** after the event and will be taken down **2/18/2026 11:59 PM (CST)**
 
+```
+    _   _         _   _         _   _         _   _         _   _         _   _         _   _  
+  /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \ 
+  |       |     |       |     |       |     |       |     |       |     |       |     |       |  
+   \     /       \     /       \     /       \     /       \     /       \     /       \     /   
+     \ /           \ /           \ /           \ /           \ /           \ /           \ /   
+      *             *             *             *             *             *             *   
+```
+
 ## Challenges
 
 <div align="center">
@@ -56,12 +65,11 @@ The repo has the following structure
 
 **Note** - Not all challenges require a file for code thus not all have the assets folder
 
-
-<!-- ```
-    _   _         _   _         _   _         _   _         _   _         _   _         _   _         _   _
-  /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \
-  |       |     |       |     |       |     |       |     |       |     |       |     |       |     |       |
-   \     /       \     /       \     /       \     /       \     /       \     /       \     /       \     /
-     \ /           \ /           \ /           \ /           \ /           \ /           \ /           \ /
-      *             *             *             *             *             *             *             *
-``` -->
+```
+    _   _         _   _         _   _         _   _         _   _         _   _         _   _  
+  /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \ 
+  |       |     |       |     |       |     |       |     |       |     |       |     |       |  
+   \     /       \     /       \     /       \     /       \     /       \     /       \     /   
+     \ /           \ /           \ /           \ /           \ /           \ /           \ /   
+      *             *             *             *             *             *             *   
+```
