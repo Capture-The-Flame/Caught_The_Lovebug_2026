@@ -8,12 +8,12 @@ Here are the challenges used for the **Caught the Lovebug** mini-CTF held on Feb
 Each challenges was made to fit the Valentine's day by the Capture the Flame 2026 Experience Team.  
 
 ```
-    _   _         _   _         _   _         _   _         _   _         _   _         _   _         _   _
-  /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \
-  |       |     |       |     |       |     |       |     |       |     |       |     |       |     |       |
-   \     /       \     /       \     /       \     /       \     /       \     /       \     /       \     /
-     \ /           \ /           \ /           \ /           \ /           \ /           \ /           \ /
-      *             *             *             *             *             *             *             *
+    _   _         _   _         _   _         _   _         _   _         _   _         _   _  
+  /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \     /   V   \ 
+  |       |     |       |     |       |     |       |     |       |     |       |     |       |  
+   \     /       \     /       \     /       \     /       \     /       \     /       \     /   
+     \ /           \ /           \ /           \ /           \ /           \ /           \ /   
+      *             *             *             *             *             *             *   
 ```
 
 ## Website  
